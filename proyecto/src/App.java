@@ -14,7 +14,7 @@ public class App {
         // Obtiene los datos de conexion
         String jdbcURL = "jdbc:mysql://localhost:3306/proyectoBD"; // URL de la base de datos
         String username = "root"; // Usuario de la base de datos
-        String password = "Ccdaac123!"; // Contraseña de la base de datos
+        String password = "contraseña"; // Contraseña de la base de datos
         
         // intenta establecer la conexión con la base de datos
         try {
